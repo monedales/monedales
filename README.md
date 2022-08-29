@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning java, springtool
 - 😄 Pronouns: she/hers
-- 💜 Interests: old buildings, cats and drag queens.
+- 💜 Interests: videogames, old buildings, cats and drag queens.
 
