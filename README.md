@@ -1,8 +1,10 @@
-### Hello, hello, hello, I'm Letícia Moneda 👋
+## Hello, hello, hello, I'm Letícia Moneda 👋
 
-- 🌱 I’m currently learning Java, MySQL, Spring Tools Suite and Insomnia;
+### I'm currently in career transition, going from architect 👷‍♀️ to dev 👩‍💻.
+
+- 🌱 At the moment I’m learning Java, MySQL, Spring Tools Suite and Insomnia;
 - 😄 Pronouns: she/hers;
-- 💜 Interests: videogames, old buildings, cats and drag queens.
+- 💜 Interests: huge fan of games, old buildings, cats and drag queens.
 
 ### FIND ME AROUND THE WEB 🌎:
 - 💼 You can make a connection with me through [LinkedIn](https://www.linkedin.com/in/leticia-moneda/) 
