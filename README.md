@@ -13,3 +13,5 @@
 <div>
   <img align="center" alt="avatar let" src="https://i.picasion.com/pic92/d5e881501de184aaa7664d7dfa22e33b.gif"
 </div>
+
+![snake gif](https://github.com/monedales/monedales/blob/output/github-contribution-grid-snake.svg)
