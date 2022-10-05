@@ -2,7 +2,7 @@
 
 ### I'm currently in career transition, going from architect 👷‍♀️ to dev 👩‍💻.
 
-- 🌱 At the moment I’m learning Java, MySQL, Spring Tools Suite and Insomnia;
+- 🌱 At the moment I’m learning Java, MySQL, Spring Boot and Insomnia;
 - 😄 Pronouns: she/hers;
 - 💜 Interests: huge fan of games, old buildings, cats and drag queens.
 
