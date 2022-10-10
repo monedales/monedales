@@ -2,9 +2,12 @@
 
 ### I'm currently in career transition, going from architect 👷‍♀️ to dev 👩‍💻.
 
-- 🌱 At the moment I’m learning Java, MySQL, Spring Boot and Insomnia;
-- 😄 Pronouns: she/hers;
+- 🌱 At the moment I’m learning Java with Spring Boot, SQL, JavaScript and React;
+- 📝 Learning how to use Agile software development with Scrum process;
+- 💻 Technologies I'm using: Insomnia, MySQL;
 - 💜 Interests: huge fan of games, old buildings, cats and drag queens.
+- 😄 Pronouns: she/hers;
+
 
 ### FIND ME AROUND THE WEB 🌎:
 - 💼 You can make a connection with me through [LinkedIn](https://www.linkedin.com/in/leticia-moneda/) 
