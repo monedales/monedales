@@ -2,11 +2,11 @@
 
 ### I'm currently in career transition, going from architect 👷‍♀️ to dev 👩‍💻.
 
-- 🌱 At the moment I’m learning Java with Spring Boot, SQL, JavaScript and React;
+- 🌱 At the moment I’m learning Java, SQL, JavaScript and React;
 - 📝 Learning how to use Agile software development with Scrum process;
-- 💻 Technologies I'm using: Insomnia, MySQL;
+- 💻 Technologies I'm using: Insomnia, MySQL, Spring Boot;
 - 💜 Interests: huge fan of games, old buildings, cats and drag queens.
-- 😄 Pronouns: she/hers;
+- 😄 Pronouns: she/her;
 
 
 ### FIND ME AROUND THE WEB 🌎:
