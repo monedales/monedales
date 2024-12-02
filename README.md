@@ -1,12 +1,12 @@
 ## Hello, hello, hello, I'm Letícia Moneda 👋
 
-### I'm currently in career transition, going from architect 👷‍♀️ to dev 👩‍💻.
+### junior software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
-- 🌱 At the moment I’m learning Java, SQL, JavaScript and React;
-- 📝 Learning how to use Agile software development with Scrum process;
-- 💻 Technologies I'm using: Insomnia, MySQL, Spring Boot;
-- 💜 Interests: huge fan of games, old buildings, cats and drag queens.
-- 😄 Pronouns: she/her;
+- 💻 I've worked 1 year and a half as junior technology consultant in projects regarding following technologies:
+  - REST API, Java, Typescript/Node.js, Python, AWS Lambda, DynamoDB, Postgres, Auth0, Terraform, and Docussaurus;
+- 🌱 At the moment I’m learning Unity and in continuous learning path about Java and AWS Developer Certification;
+- 💜 Interests: huge fan of games, old buildings, cats and drag queens;
+- 😄 Pronouns: she/her.
 
 
 ### FIND ME AROUND THE WEB 🌎:
