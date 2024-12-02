@@ -1,6 +1,6 @@
 ## Hello, hello, hello, I'm Letícia Moneda 👋
 
-### junior software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
+### Junior software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
 - 💻 I've worked 1 year and a half as junior technology consultant in projects regarding following technologies:
   - REST API, Java, Typescript/Node.js, Python, AWS Lambda, DynamoDB, Postgres, Auth0, Terraform, and Docussaurus;
