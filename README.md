@@ -2,10 +2,10 @@
 
 ### Junior software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
+- 🌱 At the moment I’m learning C language in 42 School SP;
 - 💻 I've worked 1 year and a half as junior technology consultant in projects regarding following technologies:
   - REST API, Java, Typescript/Node.js, Python, AWS Lambda, DynamoDB, Postgres, Auth0, Terraform, and Docussaurus;
-- 🌱 At the moment I’m learning Unity and in continuous learning path about Java and AWS Developer Certification;
-- 💜 Interests: huge fan of games, old buildings, cats and drag queens;
+- 💜 Interests: huge fan of games, old buildings, cats, embrodery, aerial silks and drag queens;
 - 😄 Pronouns: she/her.
 
 
