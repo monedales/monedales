@@ -14,7 +14,11 @@
 - 📷 See pictures of my cats on [Instagram](https://www.instagram.com/lemo.nadaaa/)
 
 <div>
-  <img align="center" alt="avatar let" src="https://i.picasion.com/pic92/d5e881501de184aaa7664d7dfa22e33b.gif"
+  <img align="center" alt="avatar let" src="https://i.picasion.com/pic92/d5e881501de184aaa7664d7dfa22e33b.gif" />
 </div>
 
-![snake gif](https://github.com/monedales/monedales/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monedales/monedales/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monedales/monedales/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/monedales/monedales/output/github-contribution-grid-snake.svg" />
+</picture>
