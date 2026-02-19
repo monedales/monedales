@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=monedales&color=7f5af0&style=flat-square)
 
-### Junior software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
+###  Software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
 - 🌱 At the moment I’m learning C language in 42 School SP;
 - 💻 I've worked 1 year and a half as junior technology consultant in projects regarding following technologies:
