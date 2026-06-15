@@ -4,10 +4,12 @@
 
 ###  Software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
-- 🌱 At the moment I’m learning C language in 42 School SP;
-- 💻 I've worked 1 year and a half as junior technology consultant in projects regarding following technologies:
-  - REST API, Java, Typescript/Node.js, Python, AWS Lambda, DynamoDB, Postgres, Auth0, Terraform, and Docussaurus;
-- 💜 Interests: huge fan of games, old buildings, cats, embrodery, aerial silks and drag queens;
+- 🌱 Currently deepening my C foundations at 42 School SP (Milestone 4);
+- 💻 Previous experience as junior technology consultant at McKinsey & Company, working with:
+  - REST API, Java, TypeScript/Node.js, Python, AWS Lambda, DynamoDB, PostgreSQL, Auth0, Terraform and Docusaurus;
+- 🚀 Currently working as a software engineer at a startup, handling backend development, task management and direct client communication;
+- 🔍 Looking to grow in an environment with structured teams and impactful, large-scale projects;
+- 💜 Interests: games, old buildings, cats, embroidery and aerial silks;
 - 😄 Pronouns: she/her.
 
 
