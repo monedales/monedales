@@ -4,7 +4,7 @@
 
 ###  Software engineer focusing on backend development, based in São Paulo, Brasil 👩‍💻.
 
-- 🌱 Currently deepening my C foundations at 42 School SP (Milestone 4);
+- 🌱 Currently deepening my C/C++ foundations at 42 School SP (Milestone 4);
 - 💻 Previous experience as junior technology consultant at McKinsey & Company, working with:
   - REST API, Java, TypeScript/Node.js, Python, AWS Lambda, DynamoDB, PostgreSQL, Auth0, Terraform and Docusaurus;
 - 🚀 Currently working as a software engineer at a startup, handling backend development, task management and direct client communication;
